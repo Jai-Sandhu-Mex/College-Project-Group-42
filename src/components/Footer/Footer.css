@@ -1,0 +1,10 @@
+.bg-linear{
+    background-color: black;
+    border-top: 3px solid rgb(255, 0, 0);
+}
+.color{
+    color: rgb(253, 0, 0);
+}
+.cursor-pointer:hover{
+ color: rgb(255, 31, 11);
+}
